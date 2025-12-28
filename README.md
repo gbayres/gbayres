@@ -34,7 +34,7 @@ Full-stack developer with 4+ years of experience building scalable web and mobil
 - Significant participation in rebranding from JJ Mentoria to Aristo
 - Implemented responsiveness across the educational platform
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Stack
 
 **Frontend**
 ```
